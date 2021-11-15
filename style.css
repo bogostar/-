@@ -1,0 +1,123 @@
+*{
+  background-color:azure;
+}
+
+.welcome{
+ width:100%;
+ height:100%;
+}
+
+.page{
+ font-size:50px;
+ border:2px solid blanchedalmond;
+ color:rgb(1, 31, 14);
+ background-color:teal;
+ text-align: center;
+}
+
+.page:hover{
+  color: rgb(21, 247, 78)
+}
+
+
+.main{
+  padding:150px 40px;
+  font-size:40px;
+  letter-spacing: 1.5px;
+}
+
+.logo{
+  float:right;
+  width:400px ; 
+  /* border:2px solid black;  */
+}
+
+.friend{
+  color: #cf1b1b;
+  text-shadow: 2px 2px black;
+}
+
+.friend:hover{
+   text-shadow: 2px 2px #FF0000;
+}
+
+.profile{
+ width:100%;
+ height:100%;
+}
+
+.about-me{
+ font-size:50px;
+ border:2px solid blanchedalmond;
+ color:rgb(1, 31, 14);
+ background-color:teal;
+ text-align: center;
+}
+
+.about-me:hover{
+  color: rgb(21, 247, 78)
+}
+
+.about{
+  font-size:40px;
+  padding:150px 40px;
+  letter-spacing: 1.5px;
+}
+
+.about img{
+  width:700px;
+  float:right;
+}
+
+.links{
+ width:100%;
+ height:100%;
+}
+
+.interesting{
+ font-size:50px;
+ border:2px solid blanchedalmond;
+ color:rgb(1, 31, 14);
+ background-color:teal;
+ text-align: center;
+}
+
+.interesting:hover{
+   color: rgb(21, 247, 78)
+}
+
+.table{
+  padding:80px 40px;
+  font-size:40px;
+  text-align: center;
+}
+
+.table table{
+  border:solid black;
+  margin:auto;
+}
+
+.foto{
+  height:500px;
+  width: 450px;
+}
+
+.note{
+  font-size:40px;
+  text-align:center;
+  margin:auto;
+  color:#cf1b1b;
+}
+
+.alien{
+  margin:auto;
+  text-align: center;
+}
+.alien img{
+  width:180px;
+  padding:75px 10px;
+   
+}
+
+
+
